@@ -1,6 +1,28 @@
 # GKNUn
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include "raylib.h"
 #include <cstdio>  // C++에서 sprintf_s를 사용하기 위해 추가
 
